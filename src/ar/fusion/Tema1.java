@@ -6,20 +6,20 @@ public class Tema1 {
     public static void main(String[] args) {
         //TIPO DE DATOS
         // 1. numericos
-            // 1.1 enteros
+            // 1.1 Enteros
         byte numByte = 5;
         short numShort = 10;
         int numInt = 30;
         long numLong = 100;
 
-            // 1.2 decimales
+            // 1.2 Decimales
         float numFloat = 5.5f;
         double numDouble = 10.5d;
 
-        // 2. booleano
+        // 2. Booleano
         boolean estadoBoolean = false;
 
-        // 3. texto
+        // 3. Texto
         char textoChar = 'a';
         String textoString = "Esto es una cadena de texto, o sea un string...";
 
